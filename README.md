@@ -19,5 +19,5 @@ This repo try to solve the problem by using image pre-processing technique calle
 6. The image and the label will be generated and saved in generated folder
 
 ## Current Limitation
-1. Tiling image and feed them to the network will produce model that can recognize divided image not a whole image. So, in the future i want to make a scirpt to automate tile and merge process during inference.
+1. Tiling image and feed them to the network will produce model that can recognize divided image only not a whole image. So, in the future i want to make a scirpt to automate tile and merge process during inference.
 2. Only single image can be feeded to the script. Soon, maybe the script can accept multiple images.
